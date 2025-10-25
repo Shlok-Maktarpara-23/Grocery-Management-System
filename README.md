@@ -43,9 +43,11 @@ Grocery-Management-System/
    cd Grocery-Management-System/src
 
 2. Compile the program:
+   ```bash
     javac GroceryItem.java
 
-3. Run the program:
+4. Run the program:
+   ```bash
     java GroceryItem
 
 ---
