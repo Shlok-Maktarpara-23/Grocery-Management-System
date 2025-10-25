@@ -6,12 +6,12 @@ A simple Java-based console application that manages grocery inventory — inclu
 
 ## 📋 Features
 
-- 🧾 Display all grocery items in inventory  
-- ➕ Add new items  
-- ✏️ Modify existing items  
-- ❌ Remove items from inventory  
-- 🔍 Search for items by name  
-- 📦 Show detailed inventory summary (total items, price, quantity)
+🧾 Display all grocery items in inventory  
+➕ Add new items  
+✏️ Modify existing items  
+❌ Remove items from inventory  
+🔍 Search for items by name  
+📦 Show detailed inventory summary (total items, price, quantity)
 
 ---
 
@@ -24,15 +24,14 @@ A simple Java-based console application that manages grocery inventory — inclu
 ---
 
 ## 📁 Project Structure
-
+```
 Grocery-Management-System/
-│
 ├── src/
 │ └── GroceryManagementSystem.java
-├── README.md
-├── .gitignore
-└── LICENSE
-
+├── README.md # Project documentation
+├── .gitignore # Ignored files and folders
+└── LICENSE # Project license (MIT)
+```
 ---
 
 ## 🚀 How to Run Locally
