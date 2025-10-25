@@ -30,7 +30,6 @@ Grocery-Management-System/
 │ └── GroceryManagementSystem.java
 ├── README.md # Project documentation
 ├── .gitignore # Ignored files and folders
-└── LICENSE # Project license (MIT)
 ```
 ---
 
