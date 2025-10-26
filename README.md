@@ -27,7 +27,7 @@ A simple Java-based console application that manages grocery inventory — inclu
 ```
 Grocery-Management-System/
 ├── src/
-│ └── GroceryManagementSystem.java
+│ └── GroceryItem.java
 ├── README.md # Project documentation
 ├── .gitignore # Ignored files and folders
 ```
